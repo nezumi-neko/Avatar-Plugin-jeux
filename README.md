@@ -28,22 +28,27 @@ Ce pluging est entièrement basé sur le hasard et lance selon des phrases clés
 Le tout agrémenté d'un petit effet sonore au format mp3 soulignant l'action.
 
 Lancement d'un dé virtuel :
+
 *"Mot clé"*, lance un dé
 
 -----------------------------------------------------------------------------------
 
 Lancement de deux dés virtuels :
+
 *"Mot clé"*, lance deux dés
 
 -----------------------------------------------------------------------------------
 
 Choix d'une carte au hasard dans un jeu de poker virtuel de 52 cartes :
+
 *"Mot clé"*, tire une carte
 
 -----------------------------------------------------------------------------------
 
 Jouer à pile ou face :
+
 *"Mot clé"*, jeu pile ou face
+
 *"Mot clé"*, on joue à pile ou face
 
 A ce moment, Sarah vous demandera de choisir entre pile ou face.
