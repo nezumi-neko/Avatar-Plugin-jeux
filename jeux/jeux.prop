@@ -1,0 +1,15 @@
+{
+	"modules":{
+		"jeux":{
+			"version":"1.0",
+			"name":"jeux",
+			"tts":"voilà|tout de suite|c'est fait",
+			"rules":{
+				"jeuxcarte":["draw * card"],
+				"jeux1de":["roll a die"],
+				"jeux2de":["roll two die"],
+				"jeuxpileface":["toss head? * tails?","game coin"]
+			}
+		}
+	}
+}
