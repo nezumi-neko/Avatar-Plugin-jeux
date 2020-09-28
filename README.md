@@ -54,7 +54,9 @@ Choisir le côté pile ou le côté face:
 
 
 ### Plugin issue de Sarah :
+
 Auteur de base : Hervé le hibou (plugins pour Sarah)
+
 Conversion et modification : Nezumi
 
 
