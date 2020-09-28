@@ -10,7 +10,7 @@ Ce plugin Jeux est un petit plugin, capable de faire plusieurs petites choses:
 
 
 
-###Installation :
+## Installation :
 
 **Installation Manuelle :
 
@@ -23,7 +23,7 @@ Ce plugin Jeux est un petit plugin, capable de faire plusieurs petites choses:
 
 
 
-###Fonctionnement du plugin :
+## Fonctionnement du plugin :
 Ce pluging est entièrement basé sur le hasard et lance selon des phrases clés une action avec des réponses aléatoires parmi un choix de plusieurs réponses possibles. 
 Le tout agrémenté d'un petit effet sonore au format mp3 soulignant l'action.
 
@@ -53,7 +53,7 @@ Choisir le côté pile ou le côté face:
 
 
 
-###Plugin issue de Sarah :
+### Plugin issue de Sarah :
 Auteur de base : Hervé le hibou (plugins pour Sarah)
 Conversion et modification : Nezumi
 
